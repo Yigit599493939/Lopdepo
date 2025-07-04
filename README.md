@@ -1,10 +1,5 @@
 <!DOCTYPE html>
 <html lang="tr">
-<head>
-  <meta charset="UTF-8">
-  <title>Benim İlk Web Sitem</title>
-  <link rel="stylesheet" href="style.css">
-</head>
 <body>
   <h1>Hoş Geldiniz!</h1>
   <p>Bu benim ilk web sitem.</p>
